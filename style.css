@@ -1,7 +1,7 @@
 body {
-  padding: 0;
   margin: 0;
-  background-color: #ccc;
+  padding: 0;
+  background: #ccc;
   font-family: sans-serif;
 }
 
@@ -43,7 +43,7 @@ body {
 }
 
 #addToDo:active {
-  background-color: blue;
+  background: blue;
 }
 
 #clearToDo {
@@ -61,7 +61,7 @@ body {
 }
 
 #clearToDo:active {
-  background-color: black;
+  background: #000;
 }
 
 .paragraph-styling {
